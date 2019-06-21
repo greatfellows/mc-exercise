@@ -9,4 +9,12 @@ Ted's Second Feature: This is what Ted and Alice added from Ted's computer worki
 
 
 
+test of Git Pull
 Ben add directly to master on Github
+
+
+
+![alt text](IMG_4074.jpg)
+
+
+![alt text](IMG_4751.jpg)
